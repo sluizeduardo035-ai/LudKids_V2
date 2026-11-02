@@ -1,0 +1,6 @@
+{
+  "name": "LUD KIDS PICTURES — Studio Pipeline OS",
+  "description": "Production Management & Prompt Engineering OS for 3D animated children's series orchestrating Suno v6, Google Flow Nano Banana 2 Pro / 2.1, and Veo 3.1.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
